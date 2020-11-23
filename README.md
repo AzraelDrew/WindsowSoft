@@ -15,7 +15,7 @@
 - EarTrumpet
 - TranslucentTB
 - Snipaste
-
+- Whiteboard
 ### Web
 
 - Chrome
