@@ -33,6 +33,8 @@
 - WeChat
 - Baidunetdisk
 - FDM
+- obs
+- Fliqlo
 
 ### Code
 
