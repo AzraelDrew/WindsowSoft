@@ -8,6 +8,7 @@
 - Cclose
 - PowerToys
 - MacType
+- SumtratPDF
 
 ### MicroSoft Store
 
@@ -35,6 +36,9 @@
 - FDM
 - obs
 - Fliqlo
+- IDM
+- Bitwarden
+- sharemouse
 
 ### Code
 
@@ -43,3 +47,4 @@
 - Git
 - Vs Code
 - Nodejs
+- scoop
