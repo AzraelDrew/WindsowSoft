@@ -9,6 +9,7 @@
 - PowerToys
 - MacType
 - SumtratPDF
+- CopyQ
 
 ### MicroSoft Store
 
@@ -30,6 +31,7 @@
 ### Soft
 
 - telegram
+- Geek
 - Tim
 - WeChat
 - Baidunetdisk
@@ -39,6 +41,9 @@
 - IDM
 - Bitwarden
 - sharemouse
+- 腾讯会议
+- LibreOffice
+- Shotcut
 
 ### Code
 
