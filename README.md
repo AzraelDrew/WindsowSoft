@@ -10,6 +10,7 @@
 - MacType
 - SumtratPDF
 - CopyQ
+- Caps Lock+
 
 ### MicroSoft Store
 
@@ -18,6 +19,8 @@
 - TranslucentTB
 - Snipaste
 - Whiteboard
+- Dell Mobile Connect
+- Modern Flyouts
 ### Web
 
 - Chrome
@@ -44,6 +47,9 @@
 - 腾讯会议
 - LibreOffice
 - Shotcut
+- 快贴
+- Listen1
+- Sharemouse
 
 ### Code
 
