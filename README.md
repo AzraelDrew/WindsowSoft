@@ -59,3 +59,12 @@
 - Vs Code
 - Nodejs
 - scoop
+
+### Tools
+
+- 批量修改文件扩展名
+
+```
+ren *.jpg* *.png*
+```
+
