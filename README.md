@@ -11,6 +11,7 @@
 - SumtratPDF
 - CopyQ
 - Caps Lock+
+- TrafficMonitor
 
 ### MicroSoft Store
 
