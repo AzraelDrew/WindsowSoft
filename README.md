@@ -27,6 +27,7 @@
 - Chrome
 - Firefix
 - Edge
+- Chromium
 
 ### Music
 
