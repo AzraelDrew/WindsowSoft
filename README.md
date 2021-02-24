@@ -52,6 +52,7 @@
 - 快贴
 - Listen1
 - Sharemouse
+- PortableApps
 
 ### Code
 
@@ -61,6 +62,7 @@
 - Vs Code
 - Nodejs
 - scoop
+- choco
 
 ### Tools
 
