@@ -72,3 +72,9 @@
 ren *.jpg* *.png*
 ```
 
+- 查看电池健康
+
+```
+Powercfg /batteryreport
+```
+
